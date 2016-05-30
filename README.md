@@ -55,15 +55,10 @@ Time spent: 10`hours
 
 - [X] Added the alert actionsheet to the sign out button on the settings page.
 
-Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
-
-1. 
-2. 
-
 ### Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Week 2 homework animation](https://github.com/nvisanji/Week-2-Homework/blob/master/week2_homework.gif?raw=true)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
